@@ -8,7 +8,7 @@ page_icon="🏠",
 layout="wide"
 )
 
-model = pickle.load(open("MODEL/model.pkl", "rb"))
+model = pickle.load(open("Model/model.pkl", "rb"))
 
 st.markdown("""
 <style>
