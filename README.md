@@ -15,3 +15,5 @@ Files:
 - Notebook
 - Model
 - Streamlit App
+- #live Demo
+- https://house-price-prediction-g5cfbxsghipsat7prjv9cc.streamlit.app/
